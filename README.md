@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m Shimul Sharma<br><br>🚀 Aspiring Blockchain / dApp Developer<br>💻 Passionate about building decentralized applications and Web3-enabled products<br>🌱 Currently learning Solidity on the Ethereum platform<br><br>🧠 About Me<br><br>I enjoy building real-world Web3 solutions and experimenting with blockchain integrations.<br>Recently, I built a dApp browser integrated into a website, focusing on secure key handling, RPC communication, and responsive UI.<br><br>I’m continuously improving my smart contract skills and exploring how decentralized systems can solve real problems.<br><br>🛠️ Tech Stack & Skills<br>🔹 Frontend<br><br>React.js<br><br>JavaScript (ES6+)<br><br>HTML5, CSS3<br><br>Responsive Web Design<br><br>🔹 Blockchain & Web3<br><br>Web3.js<br><br>Ethereum RPC<br><br>BSC RPC<br><br>dApp Browser Integration<br><br>🔹 Security<br><br>CryptoJS (secure key management & encryption)<br><br>🔥 Projects<br>🧩 dApp Browser (Web-Based)<br><br>A decentralized application browser integrated into a website that enables interaction with blockchain networks.<br><br>Key Features:<br><br>Web3 wallet connectivity<br><br>Secure key encryption using CryptoJS<br><br>Ethereum & BSC RPC integration<br><br>Responsive and user-friendly interface<br><br>🛠 Tech Used: React.js, Web3.js, CryptoJS, CSS3<br><br>📚 Currently Learning<br><br>Solidity (Smart Contract Development)<br><br>Ethereum Virtual Machine (EVM)<br><br>Smart Contract Security Basics<br><br>🎯 Goals<br><br>Become a skilled Smart Contract Developer auditor<br><br>Contribute to open-source Web3 projects
 
-<!--
-**Shimul-12/Shimul-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8QDw9gvZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sharmaaa.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shimul Sharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sharma_412) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shimulsharma12345@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shimul-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shimul-12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimul-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shimul-12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
