@@ -97,7 +97,7 @@
 <div align="center">
 
 <a href="https://github.com/Shimul-12">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimul-12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-2gtzfzsnh-shimulsharma12345-7034s-projects.vercel.app/api?username=Shimul-12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14&count_private=true" alt="GitHub Stats"/>
 </a>
 
 <br/><br/>
