@@ -18,6 +18,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
+
 <br/>
 
 ## 👨‍💻 About Me
@@ -31,6 +33,8 @@
 - 📫 Reach me at **shimulsharma12345@gmail.com**
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -85,6 +89,39 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<a href="https://github.com/Shimul-12">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shimul-12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=39FF14&text_color=FFFFFF&ring_color=39FF14&count_private=true" alt="GitHub Stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Shimul-12">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimul-12&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=39FF14&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════ CONTRIBUTION SNAKE (ANIMATED) ═══════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shimul-12/Shimul-12/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shimul-12/Shimul-12/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Shimul-12/Shimul-12/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
+
 
 ## 🚀 Featured Projects
 
@@ -147,6 +184,8 @@ Solidity audit reports covering access control issues, on-chain data exposure, r
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
+
 ## 💼 Freelance Experience
 
 **Freelance Solidity & Web3 Developer** · Upwork (Remote)
@@ -155,28 +194,22 @@ Solidity audit reports covering access control issues, on-chain data exposure, r
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shimul-12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimul-12&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimul-12&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=00D9FF&currStreakLabel=39FF14"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shimul-12&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
-
-<!--
-  OPTIONAL: animated contribution "snake" graph.
-  1. Add a workflow using platane/snk to your profile repo (Actions tab → new workflow).
-  2. Once it runs once, uncomment the line below.
-  <img src="https://raw.githubusercontent.com/Shimul-12/Shimul-12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
--->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:143452&height=2" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer" width="100%"/>
+<div align="center">
+
+<!-- ═══════════════════ SCROLLING QUOTE ═══════════════════ -->
+
+<a href="https://github.com/Shimul-12">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════ ANIMATED FOOTER WAVE ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:143452,100:00D9FF&height=120&section=footer" width="100%"/>
+
+</div>
